@@ -1,0 +1,26 @@
+body {
+  width: 600px;
+  margin: auto;
+  padding: 1rem;
+}
+
+/* input elements */
+.inputData {
+  height: 5vh;
+  padding: 1rem;
+  display: block;
+  margin: auto;
+}
+
+/* output */
+
+output {
+  border: 1px solid black;
+  height: 5vh;
+  width: 10vh;
+  margin: auto;
+  padding: 1rem;
+  display: block;
+}
+
+/* button */
